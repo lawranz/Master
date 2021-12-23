@@ -1,1 +1,11 @@
+<<<<<<< .mine
 test for 
+
+
+
+=======
+test for conflict
+
+
+I am going to statsh
+>>>>>>> .theirs
